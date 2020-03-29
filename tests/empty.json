@@ -1,0 +1,1 @@
+{"title": "======Game of Life======", "introduction": "Any live cell with two or three neighbors survives.\nAny dead cell with three live neighbors becomes a live cell.", "world": [], "size": [0, 0], "dead": {"symbol": "-", "percentage": 0.5}, "live": {"symbol": "o", "percentage": 0.5}, "iteration": 0}
